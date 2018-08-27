@@ -18,7 +18,7 @@ class Ideone
 			n=n/10;    
 		}    
 		if(temp==sum)
-		System.out.println(" yes");
+		System.out.println("yes");
 		else
 		System.out.println("no");   
 	}  
