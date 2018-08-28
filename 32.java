@@ -12,7 +12,6 @@ class Ideone
 		int word=1;
 		String str;
 		Scanner sc=new Scanner(System.in);
-		System.out.println("enter a string");
 		str=sc.nextLine();
 		for(int i=1;i<str.length();i++)
 		{
